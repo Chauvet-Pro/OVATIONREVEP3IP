@@ -16,7 +16,8 @@
 3.	The next screen will show the software versions available for this fixture on the USB drive.
 4.	The upgrade will start. DO NOT turn off the power or disconnect the USB while the USB LED is still blinking during the process. 
 5.  Go to **Sys Info** on the fixture's menu map and confirm the firmware revision.
-6.	When the boot-up process is finished, restart the fixture. It is always recommended to do a factory reset and power cycle the units after a software update to ensure that the update is succesful and the new values load properly.
+6.	When the boot-up process is finished, restart the fixture.
+      > It is always recommended to do a factory reset and power cycle the units after a software update to ensure that the update is succesful, and the new values load properly.
 
 
 ### Special Notes
